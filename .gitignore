@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.png
+*.mp4
+*.jpg
+*.jpeg
+*.gif
